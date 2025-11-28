@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Local data/artifacts
+logs/
+results/
+input_images/
+phones.db
+paddle_models/
+
+# Large binary snapshots
+*.jpg
+*.png
+
+# Editor/system noise
+~$*.xlsx
+.DS_Store
+Thumbs.db
+
